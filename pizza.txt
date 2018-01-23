@@ -8,6 +8,6 @@ bacon
 
 Directions
 
-toss pizza dough until it is the size of the pan
-spread dough in pan
-spread sauce on dough
+1.) toss pizza dough until it is the size of the pan
+2.) spread dough in pan
+3.) spread sauce on dough
